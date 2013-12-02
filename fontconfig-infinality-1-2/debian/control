@@ -1,7 +1,7 @@
 Source: fontconfig-infinality
 Section: fonts
 Priority: extra
-Maintainer: Xiao-Long Chen <chenxiaolong@cxl.epac.to>
+Maintainer: Jubei Mitsuyoshi <jubei.house.of.five.masters@gmail.com>
 Build-Depends: debhelper (>= 8.0.0)
 Standards-Version: 3.9.2
 Homepage: http://www.infinality.net
